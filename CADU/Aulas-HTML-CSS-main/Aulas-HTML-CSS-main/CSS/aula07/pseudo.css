@@ -1,0 +1,56 @@
+* {
+    font-size: 62, 5%;
+}
+
+p{
+    font-size: 1.6rem;
+}
+
+ol{
+    font-size: 1.2em;
+}
+
+li{
+    font-size: 1,2em;
+}
+
+a:active{
+    color: rgb(14, 245, 195);
+  text-decoration: none;
+}
+
+a:visited{
+    color: rgb(184, 9, 9);
+text-decoration: none; 
+}
+
+input:focus{
+    background-color: rgb(77, 0, 0);
+}
+
+textarea{
+    background-color: rgb(77, 0, 0);
+}
+
+nav {
+background-color: rgb(77, 4, 4) ;
+ height:10vh;
+ text-align: center;
+}
+
+
+nav a {
+    text-decoration: rgb(255, 255, 255);
+    text-decoration: none;
+   line-height: 250%;
+    margin: 1.5rem
+    color rgb(255, 255, 255);
+    padding: 10px
+}
+
+nav a:hover {
+    color:rgb(77, 0, 0);
+    background-color: rgb(255, 255, 255);
+    border-radius: 5px;
+
+ }

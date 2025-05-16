@@ -1,0 +1,15 @@
+body { 
+    height: 100vh;
+    background-image:linear-gradient(black 60%, darkblue ) ;
+}
+
+figure{
+
+    text-align: center;
+    width: 50vw;
+    margin: 70vw auto;
+}
+
+img{
+    filter: drop-shadow(15px 15px 10px darkblue);
+}

@@ -1,0 +1,47 @@
+/*body {
+    background-color: #027373;
+}
+p {
+    color:green ;
+} */
+
+   
+body{
+    background-color: rgb(2, 2, 2);
+}
+
+.corFundo{
+        background-color: blue;
+        color: black;
+    }
+
+    .primeiro{
+        background-color: yellow;
+        color: black;
+    }
+    .segundo{
+        background-color: red;
+        color: black;
+    }
+    .terveiro{
+        background-color: green;
+        color: black;
+    }
+
+    p.Titulo{
+        color: chartreuse;
+        font-size: large;
+        text-align: center;
+    }
+
+    h1 {
+        color: chartreuse;
+    } 
+     
+
+    #Jogo {
+        text-align: center;
+        color: crimson;
+       list-style: none;
+    }
+

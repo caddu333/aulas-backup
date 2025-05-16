@@ -1,0 +1,24 @@
+.menuNav {
+    height: 150px;
+    width: 600px;
+    background-color: rgb(0, 0, 0);
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-evenly;
+    align-items: center;
+  text-align: center;
+    color: white;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-radius: 100px;
+    margin: 0 auto;
+    padding: 10px;
+}
+
+.menu{
+    background-color: rgb(255, 255, 255);
+    height: 50px;
+    width: 100px;
+
+}
+

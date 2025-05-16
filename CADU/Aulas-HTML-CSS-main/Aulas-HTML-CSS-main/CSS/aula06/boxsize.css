@@ -1,0 +1,19 @@
+div{
+    height: 250px;
+    width: 250px;
+    border: 1px double blue;
+    margin: 10px;
+}
+
+#cx1{
+    background-color: red;
+    border: 20px solid yellow;
+    box-sizing: border-box;
+}
+
+#cx2{
+    background-color: violet;
+    border: 20px solid yellow;
+    box-sizing: border-box;
+    
+}

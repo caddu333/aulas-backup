@@ -1,0 +1,45 @@
+.container {
+    height: 100vh;
+    display: grid;
+    grid-template-columns: repeat(6,1fr);
+    grid-template-rows: repeat(8, 1fr); 
+    grid-template-areas:none
+    
+    "valor1 valor1 valor1 valor2 valor2 valor2"
+    "valor2 valor2 valor2 valor3 valor3 valor3"
+    "valor2 valor2 valor2 valor3 valor3 valor3"
+    "valor2 valor2 valor2 valor3 valor3 valor3"
+    "valor4 valor4 valor4 valor4 valor4 valor4"
+    "valor4 valor4 valor5 valor5 valor5 valor5" 
+   "valor5 valor5 valor6 valor6 valor6 valor6"
+    "valor6 valor6 valor7 valor7 valor7 valor7"
+    "valor7 valor7 valor7 valor7 valor7 valor7"
+
+    .item1 {
+        grid-area: valor1;
+        background-color: black;
+    }
+    .item2 {
+        grid-area: valor2;
+        background-color: blue;
+    }   
+    .item3 {
+        grid-area: valor3;
+        background-color: green;
+    }
+    .item4 {
+        grid-area: valor4;
+        background-color: yellow;
+    }
+    .item5 {
+        grid-area: valor5;
+        background-color: orange;
+    }
+    .item6 {
+        grid-area: valor6;
+        background-color: purple;
+    }
+    .item7 {
+        grid-area: valor7;
+        background-color: pink;
+    }

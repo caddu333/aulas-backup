@@ -1,0 +1,19 @@
+div {
+    height: 200px;
+    width: 200px;
+    border: 2px solid rgb(83, 4, 4);
+    margin: 5px;
+    display: inline-block;
+    background-color: aqua;
+}
+
+    /*display -block permite altura e largura*/
+   /*display inline nao permite altura e largura  */
+  /* display inline-block exibe o elemento em bloco e em linha */
+  /*display:none  não permite altura e largura e nao aparece na tela.  */
+
+
+.box2 {
+    background-color: yellow;
+    display: inline;
+}

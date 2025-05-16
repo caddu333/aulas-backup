@@ -1,0 +1,39 @@
+/* {
+    font-size: 20px;
+}
+
+p{
+    font-size: 2.5rem;
+}
+ 
+
+
+h1{
+    font-size: 2rem;
+}
+
+h2{
+    font-size: 25px;
+}
+
+
+ul{
+font-size: 25px;
+}
+
+
+li{
+        font-size: 1.5em;
+    }
+*/
+ body{
+    background-color:black;
+   overflow: hidden;
+}
+
+
+.container{
+    background-color: red;
+    height: 100vh;
+    width: 100vw;
+}
